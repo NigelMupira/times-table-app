@@ -17,5 +17,5 @@
 * Harare Institute of Technology
 * School of Information Science and Technology
 * **Degree:** (BSc) Information Security and Assurance
-* **Course:** ISS2105 Web Technologies
+* **Course:** ISS1205 Web Technologies
 * **Lecturer:** Stanford Mavuchi (smavuchi@hit.ac.zw)
