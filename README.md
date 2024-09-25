@@ -9,7 +9,7 @@
 ## Assignment Details:
 
 * **Academic year** 1 (2023/24) **Semester** 2 (Feb-May 2024)
-* For more details, see the documents is the **Assignment Details** folder.
+* For more details, see the documents is the **_assignment_details** folder.
 
 ## School Details
 
